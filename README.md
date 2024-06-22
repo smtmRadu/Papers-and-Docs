@@ -1,2 +1,1 @@
-# Policy-Gradient-Methods-Insights-and-Optimization-Strategies
-My B.S. thesis
+Covers the math behind [DeepUnity](https://github.com/smtmRadu/DeepUnity) framework, naming common DL modules innerworkings and differentiation, PPO, SAC, TD3 and DDPG objectives gradients and optimizations.
